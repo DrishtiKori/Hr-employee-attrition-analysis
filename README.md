@@ -60,9 +60,7 @@ Full analysis, recommendations and limitations are in [`HR_Attrition_Report.md`]
 ├── data/
 │   └── HR-Employee-Attrition_Data_analyst_Project.xlsx
 ├── dashboard/
-│   └── HR_Attrition_Analysis_Dashboard.twbx
-└── images/
-    └── dashboard_preview.png
+    └── HR_Attrition_Analysis_Dashboard.twbx
 ```
 
 **Workbook sheets**
