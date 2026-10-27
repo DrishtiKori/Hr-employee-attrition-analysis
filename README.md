@@ -56,7 +56,8 @@ Full analysis, recommendations and limitations are in [`HR_Attrition_Report.md`]
 
 ```
 ├── README.md
-├── HR_Attrition_Report.md
+├── report/
+│   └── HR_Attrition_Report.pdf 
 ├── data/
 │   └── HR-Employee-Attrition_Data_analyst_Project.xlsx
 ├── dashboard/
